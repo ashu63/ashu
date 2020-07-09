@@ -6,7 +6,7 @@ body {
     background: #F6D155;
     font-family: 'Open Sans', sans-serif;
 }
-@media (max-width: 450px) {
+/* @media (max-width: 450px) {
     .header .content-inner{
         width: 80%;
         margin-left: 20%;
@@ -18,12 +18,12 @@ body {
         margin-left: -35%;
         font-size: 26px;
     }
-    /* .header  h2{
+   
+ .header  h2{
         position: absolute;
         left: 2px;
-     } */
-}
-
+     }
+} */
 a {
     color: #222222;
     transition: all .3s;
