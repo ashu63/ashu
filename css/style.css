@@ -329,11 +329,11 @@ a:focus {
     background: #ffffff;
 }
 
-.header .content-inner {
+/* .header .content-inner {
     padding: 100px 30px;
     background: url(../img/IMG_9365.jpg) right bottom no-repeat;
     background-size: contain;
-}
+} */
 
 .header p {
     color: #FF6F61;
